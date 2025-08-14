@@ -187,7 +187,7 @@ Revolt Motors Live Demo
 MIT License - See LICENSE for details.
 
 📧 Contact
-For support, please contact: your-email@example.com
+For support, please contact: vaishnavii8319@gmail.com
 
 text
 
@@ -206,3 +206,6 @@ The file is ready to use - just:
 2. Ensure it matches your actual project structure
 3. Add a LICENSE file if needed
 4. Commit to your repository
+
+5. <img width="1897" height="1045" alt="Screenshot 2025-08-14 121328" src="https://github.com/user-attachments/assets/bc31a175-b23c-49ab-9fde-cd8d761091c9" />
+
