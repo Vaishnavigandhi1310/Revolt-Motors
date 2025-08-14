@@ -176,6 +176,7 @@ Process manager (PM2 recommended)
 
 📚 Resources
 Gemini Live API Docs
+This is the live video you can see https://drive.google.com/file/d/1Z0F8SbteQAiq_JumYeV7knOwoXbMA86L/view?usp=drive_link
 
 Web Audio API
 
